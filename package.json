@@ -1,0 +1,26 @@
+{
+  "name": "meane2e",
+  "version": "1.0.0",
+  "description": "MongoDB, Express, AngularJS and Node with deployment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcbowman/MEANe2e.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcbowman/MEANe2e/issues"
+  },
+  "homepage": "https://github.com/dcbowman/MEANe2e#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.1",
+    "morgan": "^1.8.1"
+  }
+}
